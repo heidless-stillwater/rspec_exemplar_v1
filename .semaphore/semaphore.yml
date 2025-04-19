@@ -5,7 +5,7 @@ agent:
     type: f1-standard-2
     os_image: ubuntu2204
 blocks:
-  - name: Test
+  - name: Test1
     task:
       env_vars:
         - name: RAILS_ENV
